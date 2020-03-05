@@ -1,96 +1,13 @@
-# MDT112 Example Markdown File
-For MDT112 Student
+23:14 Noler # MDT112 Project : Mathematics hologram
 
-## Header
+## สมาชิก
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+| ชื่อ                    |   ชื่อเล่น   | รหัสนักศึกษา  | GitHub Profile Link                        |
+|-----------------------|:--------:|:----------:|:------------------------------------------:|
+| นายพีรพล ชัยพัฒน์         | ท็อป      |    007     |[oppotop9](https://github.com/oppotop9)     |
+| นางสาวธนภัค งามสรรพกิจ    |   ฟ้า     |   043      |[fahtanapak](https://github.com/fahtanapak) |
+| นางสาวอินทิรา บุญเกิด       |   ออม    |  056       |[intira-bk](https://github.com/intira-bk) |                                               
 
-## Emphasis
+## รายละเอียดโปรเจค
+กลุ่มเราจะทำโฮโลเเกรมของกราฟบนแกน x,y,z โดยคำนวณจากสมการที่ใช้หารูปทรงต่างๆ เพื่อช่วยในการมองเห็นภาพเชิง3มิติได้ชัดเจนเเละเข้าใจได้มากยิ่งขึ้น โดยอ้างอิงจากการเรียนเกี่ยวกับกราฟ3มิติ ที่ไม่สามารถมองเห็นรูปทรงต่างๆจากสมการได้อย่างชัดเจน จึงส่งผลให้เกิดโปรเจคนี้ขึ้นมา คาดว่าผู้ที่ศึกษาด้านนี้อยู่สามารถนำไปใช้ประโยชน์ได้ไม่มากก็น้อย และอาจจะต่อยอดเพิ่มตัวโปรเจคให้ดียิ่งขึ้้นต่อไป
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-## Lists
-
-1. First ordered list item
-2. Another item
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
-+ pluses
-
-## Link
-
-[reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-## Image
-
-![alt text For Logo 1][logo]
-
-![alt text For Logo 2][logo]
-
-[logo]: https://github.com/ruangrith-ri/MDT112-Example-Markdown-File/blob/master/images/icon48.png "Logo Title Text"
-
-## Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-### C Example
-
-```c
-int main() {
-  int y = SOME_MACRO_REFERENCE;
-  int x = 5 + 6;
-  cout << "Hello World! " << x << std::endl();
-}
-```
-
-### C++ Example
-
-```cpp
-int main() {
-  int y = SOME_MACRO_REFERENCE;
-  int x = 5 + 6;
-  cout << "Hello World! " << x << std::endl();
-}
-```
-
-## Table
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-## Blockquotes
-
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
-
-> Blockquotes are very handy in email to emulate reply text
-> This line is part of the same quote.
-
-Quote break.
