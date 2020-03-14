@@ -1,4 +1,4 @@
-23:14 Noler # MDT112 Project : Mathematics hologram
+# MDT112 Project : Mathematics hologram
 
 ## สมาชิก
 
